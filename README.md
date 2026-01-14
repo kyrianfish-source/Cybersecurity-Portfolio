@@ -18,7 +18,7 @@ This portfolio showcases practical projects that demonstrate my skills in threat
 
 ---
 
-## 📁 Portfolio Structure
+## Portfolio Structure
 
 ### **Incident Response**
 Case studies, incident reports, containment plans, and post-incident recommendations.
@@ -40,13 +40,13 @@ End-to-end investigation from the Google Cybersecurity Certificate, including fi
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 To join a Danish cybersecurity team where I can apply analytical thinking, technical skills, and strong documentation abilities to protect systems, support security operations, and contribute to a culture of trust and resilience.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **GitHub:** https://github.com/kyrianfish-source  
 - **LinkedIn:** www.linkedin.com/in/kyrian-amanambu-a3bb273a4  
