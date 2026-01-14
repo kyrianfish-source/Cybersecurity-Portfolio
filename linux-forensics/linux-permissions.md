@@ -13,7 +13,8 @@ I used basic Linux commands to inspect existing permissions, modify them using `
 
 I began by navigating into the `projects` directory and listing all files using:
 cd projects ls -l
-This displayed the current permissions for:
+
+his displayed the current permissions for:
 - One directory: `drafts/`
 - Four project files: `project_k.txt`, `project_m.txt`, `project_r.txt`, `project_t.txt`
 
