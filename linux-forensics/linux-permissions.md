@@ -1,3 +1,17 @@
+# Linux File Permissions Project  
+### FishForYou Global Services
+
+## 📌 Project Overview
+
+This project demonstrates how I reviewed and updated file and directory permissions in the `projects` directory to comply with the organization’s authorization standards and the principle of least privilege.  
+
+I used basic Linux commands to inspect existing permissions, modify them using `chmod`, and verify the results.
+
+---
+
+## Step 1: Check File and Directory Details
+
+I began by navigating into the `projects` directory and listing all files using:
 
 This displayed the current permissions for:
 - One directory: `drafts/`
